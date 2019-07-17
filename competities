@@ -1,0 +1,55 @@
+
+
+
+	<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+	<script>
+	  var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+	</script>
+	
+	
+	
+
+		<!-- Begin BlueKai Tag -->
+		<script type="text/javascript">
+
+			window.bk_async = function() {
+				// PHINTS : Declare variables about this page (or user)
+				bk_addPageCtx('page_type', 'list');
+				bk_addPageCtx('page_primary_tag', 'competitions');
+				bk_addPageCtx('user_country_code', 'NL');
+				bk_addPageCtx('user_language_code', 'nl-NL');
+				
+				BKTAG.doTag(56239, 1);
+			};
+			
+			
+			
+			window.bk_async = function() {	
+				bk_addEMailHash("");	
+			}	
+
+			(function() {
+				var scripts = document.getElementsByTagName('script')[0];
+				var s = document.createElement('script');
+				s.async = true;
+				s.src = "https://tags.bkrtx.com/js/bk-coretag.js";
+				scripts.parentNode.insertBefore(s, scripts);
+			}());
+		</script>
+		<!-- End BlueKai Tag -->
+
+	<script>
+		  googletag.cmd.push(function() {
+			gptadslots[0] = googletag.defineSlot('/67970281/DISPLAY_OWNED__NL/Voetbalzone/Competition/Skin', [1, 1], 'div-gpt-ad-1477474839008-1').addService(googletag.pubads());
+			gptadslots[1] = googletag.defineSlot('/67970281/DISPLAY_OWNED__NL/Voetbalzone/Competition/Top_Banner', [[728, 90], [970, 250], [970, 500]], 'div-gpt-ad-1477474839008-2').addService(googletag.pubads());
+			gptadslots[2] googletag.defineSlot('/67970281/DISPLAY_OWNED__NL/Voetbalzone/Competition/Top_MPU', [[300, 250], [300, 600]], 'div-gpt-ad-1477474839008-3').addService(googletag.pubads());
+			gptadslots[3] googletag.defineSlot('/67970281/DISPLAY_OWNED__NL/Voetbalzone/Competition/Top_Skyscraper', [[120, 600], [160, 600]], 'div-gpt-ad-1477474839008-4').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+	 	    googletag.pubads().collapseEmptyDivs(true);
+		    googletag.pubads().setTargeting('environment', 'staging');
+			googletag.enableServices();
+		  });
+	</script>
+
+	
